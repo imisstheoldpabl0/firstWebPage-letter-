@@ -1,0 +1,23 @@
+.desde {
+    text-align: right;
+}
+
+.semesterList {
+    /* spacing, interlineado?? */
+}
+
+.indentedText {
+    padding-left: 36px;
+}
+
+.headerPaddingRight {
+    padding-right: 36px;
+}
+
+.mainPaddingLeft {
+    padding-left: 36px;
+}
+
+.lineSpacing {
+    line-height: 22px;
+}
